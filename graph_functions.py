@@ -46,7 +46,7 @@ def create_chloropleth(counties, zhvi_county_inc_pop, natl_parks, opacity = Fals
         color = 'green'),
         text = natl_parks["park_name"], hoverinfo = 'skip'))
     fig.update_layout(title={
-        'text': "Percent Change in Housing Prices from 2019 to 2021",
+        'text': '<b><span style="font-family: Courier New, Monospace; font-size: 10pt"> Percent Change in Housing Prices from 2019 to 2021 </span> </b>',
         'y': 0.96,
         'x':0.4,
         'xanchor': 'center',
