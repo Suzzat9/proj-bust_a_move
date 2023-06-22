@@ -1,6 +1,6 @@
 # Team Bust-a-Move! Exploring Regional Mobility in the United States
 
-This is a project I worked on with two other classmates, on visualizing regional mobility in the US. The proj-paper file has more details on our scope and methodology. 
+This is a project I worked on with two other classmates, on visualizing regional mobility in the US during the covid-19 pandemic. The proj-paper file has more details on our scope and methodology. 
 
 ## How to Install
 We have included an install.sh and requirements.txt file for the user to create a virtual environment and download the required packages. After doing this, run $ python3 app.py in the terminal. The user will then be directed to a web address that runs the application.
